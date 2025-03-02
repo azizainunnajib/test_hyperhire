@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+
+// const Color kcPrimaryColor = Colors.white;
+const Color kcPrimaryColor = Color(0xFF9600FF);
+const Color kcPrimaryColorDark = Color(0xFF300151);
+const Color kcDarkGreyColor = Color(0xFF1A1B1E);
+const Color kcMediumGrey = Color(0xFF474A54);
+const Color kcLightGrey = Color.fromARGB(255, 187, 187, 187);
+const Color kcBorderGrey = Color.fromARGB(255, 206, 206, 206);
+const Color kcVeryLightGrey = Color(0xFFE3E3E3);
+const Color kcBackgroundColor = Color(0xFFEEEEEE);
+const Color kcColorLogo = Color.fromARGB(255, 93, 95, 239);
+const Color kcColorBodyText = Color.fromARGB(255, 29, 29, 29);
+const Color kcTextTitleColor = Colors.black;
+const Color kcTextSubtitleColor = Color.fromARGB(255, 97, 97, 97);
+const Color kcCountReviewColor = Color.fromARGB(255, 196, 196, 196);
+const Color kcCountRatingColor = Color.fromARGB(255, 255, 210, 51);
+const Color kcCardBackgroundTagColor = Color.fromARGB(255, 240, 240, 240);
+const Color kcCardTextTagColor = Color.fromARGB(255, 134, 134, 134);
+const Color kcUnselectedBottomNavbarColor = Color.fromARGB(255, 215, 215, 215);
+const Color kcTextFooterColor = Color(0xFF858585);
