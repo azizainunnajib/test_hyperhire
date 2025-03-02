@@ -1,0 +1,2 @@
+/Users/azizainunnajib/Development/test/test_hyperhire/android/app/.cxx/Debug/506n2f1e/x86/CMakeFiles/edit_cache.dir
+/Users/azizainunnajib/Development/test/test_hyperhire/android/app/.cxx/Debug/506n2f1e/x86/CMakeFiles/rebuild_cache.dir
