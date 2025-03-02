@@ -60,16 +60,19 @@ class ProfileView extends StackedView<ProfileViewModel> {
         backgroundColor: Colors.white,
       ),
       body: SingleChildScrollView(
-        child: Column(
-          children: [
-            CardProfile(user: viewModel.selectedUser),
-            SizedBox(
-              height: 14,
-            ),
-            ReviewSection(
-              viewModel: viewModel,
-            )
-          ],
+        child: Container(
+          color: Colors.white,
+          child: Column(
+            children: [
+              CardProfile(user: viewModel.selectedUser),
+              SizedBox(
+                height: 14,
+              ),
+              ReviewSection(
+                viewModel: viewModel,
+              )
+            ],
+          ),
         ),
       ),
     );
